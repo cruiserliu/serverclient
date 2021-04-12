@@ -1,0 +1,55 @@
+Wed Apr  7 09:54:58 2021
+ function ( CreateServerReceiverFactoryType ) line 199 One TCPServer ready to construct
+
+Wed Apr  7 09:54:58 2021
+ function ( CreateServerReceiverFactoryType ) line 203 One UDPServer ready to construct
+
+Wed Apr  7 09:54:58 2021
+ function ( CreateServerReceiverFactoryType ) line 207 One UDPMultiCast ready to construct
+
+Wed Apr  7 09:54:58 2021
+ function ( InitSocket ) line 68 TCP create socket sucessful: (listenFd: )10
+
+Wed Apr  7 09:54:58 2021
+ function ( SocketBind ) line 145 TCP Socket bind sucessful:  (Listenfd: )10
+
+Wed Apr  7 09:54:58 2021
+ function ( SocketListen ) line 158 Socket Listening establish
+
+Wed Apr  7 09:54:58 2021
+ function ( InitSocket ) line 12 UDP create socket sucessful: (listenFd: )11
+
+Wed Apr  7 09:54:58 2021
+ function ( SocketBind ) line 89 UDP Socket bind sucessful:  (Listenfd: )11
+
+Wed Apr  7 09:54:58 2021
+ function ( InitSocket ) line 33 UDP MultiCasting create socket sucessful: (listenFd: )19
+
+Wed Apr  7 09:54:58 2021
+ function ( InitSocket ) line 44 Set MultiCasting addr multiplexing sucessful!
+
+Wed Apr  7 09:54:58 2021
+ function ( SocketBind ) line 104 Bind UDP MultiCasting sucessful!(Listenfd: )19
+
+Wed Apr  7 09:54:58 2021
+ function ( InitMultiCastAttribute ) line 265Set ip req sucessful
+
+Wed Apr  7 09:54:58 2021
+ function ( MultiCastTTLPassageInit ) line 237 Multicast TTL setting sucessful
+
+Wed Apr  7 09:54:58 2021
+ function ( MultiCastLoopPassageInit ) line 251 Multicast Loop setting sucessful
+
+Wed Apr  7 09:54:58 2021
+ function ( CreateReceiverType ) line 311 One UDPReceiver ready to construct
+
+Wed Apr  7 09:54:58 2021
+ function ( CreateReceiverType ) line 311 One UDPReceiver ready to construct
+
+Wed Apr  7 09:54:58 2021
+ function ( MonitorAccept ) line 43 IO multiplexing prepare ready ! (TCPListenfd) = 10 (UDPLIsdtenFd) = 11  (UDPListenfd) = 19
+
+Wed Apr  7 09:54:58 2021
+ function ( ServerSocketAccept ) line 48
+******************Wait for the client response(Select Process)******************
+
